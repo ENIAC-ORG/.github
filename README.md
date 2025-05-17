@@ -84,6 +84,50 @@ Each contains instructions on installing dependencies, environment variables, Do
 ```
 
 ---
+Below are some enhanced pictures of the project:
+## Project Screenshots
+
+### homepage  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/1.png?raw=true" width="500"/>
+
+### homepage  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/2.png?raw=true" width="500"/>
+
+### doctors' list  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/3.png?raw=true" width="500"/>
+
+### feedback for doctor in his profile  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/5.png?raw=true" width="500"/>
+
+### reserve appointment with doctor  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/6.png?raw=true" width="500"/>
+
+### personal tests for patient  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/7.png?raw=true" width="500"/>
+
+### test's result  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/8.png?raw=true" width="500"/>
+
+### voice to speech in chat with AI  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/10.png?raw=true" width="500"/>
+
+### chat with AI  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/12.png?raw=true" width="500"/>
+
+### group chat  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/13.png?raw=true" width="500"/>
+
+### doctor's dashboard  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/14.png?raw=true" width="500"/>
+
+### doctor's dashboard  
+<img src="https://github.com/ENIAC-ORG/.github/blob/Update_README/assets/15.png?raw=true" width="500"/>
+
+---
+
+You can find the actual presentation for the project at the link below:
+
+📁 [Project Presentation Folder on Google Drive](https://drive.google.com/drive/folders/10VSxk1T2uGrH3_urErDRVGlQ5jdSd2-b)
 
 ## 🧑‍🤝‍🧑 Team Members
 
