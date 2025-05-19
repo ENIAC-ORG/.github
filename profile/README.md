@@ -134,15 +134,15 @@ You can find the actual presentation for the project at the link below:
 ### Frontend:
 
 * Zahra Dehghan
-* Helia Shams Zadeh
-* Zahra Abbaspour
+* Helia Shamszadeh
+* Zahra Abbasgholi
 * Fatemeh Sharhdehi
 
 ### Backend:
 
 * Zahra Alizadeh
 * Asma Hamid
-* Zeinab Bagiyan
+* Zeinab Baghiyan
 
 ---
 
